@@ -1,0 +1,16 @@
+{
+  "SetTimeout": "5000", 
+  "WipedTodayEnabled": false,
+  "WipedTodayHours": 24, 
+  "Servers": [
+      {
+          "IP":"51.195.18.40",
+          "RconPort": 28016,
+          "RconPassword": "MehedEiNuta",
+          "DiscordToken": "OTg4MTI5Mjg5MDI5NDIzMTM2.G7bdLW.x3dqRpj4Et1M660mNMuo730rjGBfX48fpw9d20"
+      }
+  ]
+}
+
+
+
